@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxxmediaus.github.io/max-x-media/sitemap.xml
